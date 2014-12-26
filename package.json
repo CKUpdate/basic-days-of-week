@@ -1,0 +1,12 @@
+{
+  "name": "basic-days-of-week",
+  "repository": "git@github.com:CKUpdate/basic-days-of-week.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-element": "CKUpdate/basic-element#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
+}
